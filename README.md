@@ -17,7 +17,7 @@ Customization: Discusses potential ways to fine-tune the model, adapt it for oth
 
 Evaluation and Iteration: Offers insights into evaluating the quality of generated images, identifying potential issues, and iterating on the training process to enhance results.
 
-#Getting Started
+## Getting Started
 Follow these steps to get started with the Monet-Style Art Painting project using CycleGAN:
 
 **Dataset Collection:** Gather a comprehensive dataset containing Monet's paintings and a diverse set of photographs that you intend to transform into Monet-style artworks.
